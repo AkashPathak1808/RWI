@@ -26,7 +26,8 @@ public class InterfaceProblem {
 		
 		Cat1 c = new Cat1();
 		
-		getNoice(d);
+		
 		getNoice(c);
+		getNoice(d);
 	}
 }
